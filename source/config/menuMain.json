@@ -9,7 +9,7 @@
     "id": 1,
     "icon": "fa fa-file-text-o",
     "slug": "actividad",
-    "title": "1. Actividad productiva",
+    "title": "1. Características del sector agropecuario",
     "breadcrumb": ["Inicio","Tema 1"],
     "path": "pages/1-tema.html",    
     "submenu": [
